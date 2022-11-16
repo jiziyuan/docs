@@ -21,6 +21,7 @@
     </ul>
    <strong>一个人可以走的很快，但一群人才能走的很远。极资源社区由众多爱好者共同维护，期待您的加入！</strong>
 </div>
+
 <div class="alert flat tip">
     <p class="title"><span class="icon icon-tip"></span>Tip 联系我们📮</p>
     <strong>‍如果您有觉得不错的资源或想法，欢迎您邮件至本站，这会对本站有很大的帮助！</strong>
